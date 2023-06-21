@@ -7,6 +7,18 @@ p {
     text-align: justify;
 }
 
+.full-vw {
+
+width:100vw; 
+height:100px; 
+position:absolute; 
+z-index:999;
+left: 0;
+right: 0;
+background-color: red;
+
+}
+
 .center-text {
 margin: auto;
 display: flex;

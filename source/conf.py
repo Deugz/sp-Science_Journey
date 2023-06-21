@@ -14,6 +14,20 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+comments_config = {
+   "utterances": {
+      "repo": "https://github.com/Deugz/sp-Science_Journey",
+      "optional": "config",
+   }
+}
+
+comments_config = {
+   "hypothesis": True
+}
+
+
+
+
 extensions = [
   
   "myst_parser",

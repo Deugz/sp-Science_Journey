@@ -1,4 +1,4 @@
-# Intro
+# Home
 
 ```{toctree}
 :maxdepth: 2
