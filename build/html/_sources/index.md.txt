@@ -49,10 +49,37 @@ s0.parentNode.insertBefore(s1,s0);
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script><script  src="_static/assets/script/scriptvideo.js"></script>
 
+::::{grid} 2
 
-<p class="emphase2"><strong>Welcome</strong> &nbsp; 👋 </p>
+:::{grid-item}
+:columns: 5
 
-<p class="emphase">On the result of my PhD procrastination, </p>
+<p class="emphase2"><strong>Welcome</strong> <br>👋 </p>
+
+<p class="emphase">On the result of <br> my PhD procrastination, </p>
+
+:::
+
+:::{grid-item}
+:columns: 7
+
+
+```{admonition} Peer-Review ![flag alt >](_static/Svg_icons/review-svgrepo-com.svg)
+:class: warning, dropdown
+
+Admo 1, comment ca se fait que ca ne marche pas bordel
+
+```
+
+```{admonition} How, Why ...
+:class: tip, dropdown
+J'ai toujours trouvé beaucoup de limitations dans la facon dont la science est publié
+
+```
+
+:::
+
+::::
 
 
 <h2> <strong>My Online Academic Home</strong></h2>
@@ -69,12 +96,12 @@ s0.parentNode.insertBefore(s1,s0);
 :columns: 9
 
 
-<img src="_static\Svg_icons\newspaper-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; An online scientific publication and public engagement plateform <br> <br>
-<img src="_static\Svg_icons\keys-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Self-own, creative, independant, interactive, collaborative and lifelong <br> <br>
-<img src="_static\Svg_icons\handshake-deal-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Aimed at promoting collaboration between multi-disciplinary scientistist <br> <br>
-<img src="_static\Svg_icons\bubble-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; By providing the space and tools to create and sustain a constructive dialogue <br> <br>
-<img src="_static\Svg_icons\planet-earth-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; With a broad spectrum of audiences <br> <br>
-<img src="_static\Svg_icons\hands-and-leaves-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Free and Open-Source, with no adds or cookies <br> <br> 
+<p><img src="_static\Svg_icons\newspaper-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; An online scientific publication and public engagement plateform </p><br> 
+<p><img src="_static\Svg_icons\keys-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Self-own, creative, independant, interactive, collaborative and lifelong </p><br> 
+<p><img src="_static\Svg_icons\handshake-deal-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Aimed at promoting collaboration between multi-disciplinary scientistist </p><br> 
+<p><img src="_static\Svg_icons\bubble-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; By providing the space and tools to create and sustain a constructive dialogue </p><br> 
+<p><img src="_static\Svg_icons\planet-earth-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; With a broad spectrum of audiences </p><br> 
+<p><img src="_static\Svg_icons\hands-and-leaves-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Free and Open-Source, with no adds or cookies </p><br>  
 
 
 
@@ -110,7 +137,9 @@ s0.parentNode.insertBefore(s1,s0);
 <p class="emphase2"><strong>This website</strong></p>
 
 
-<p class="emphase">My house, my rules.</p>
+<p class="emphase">My house (my rules), to host, display and discuss all my scientific outputs.</p>
+
+<br>
 
 
 :::::{grid} 2
@@ -154,14 +183,11 @@ Description:
 
 
 
-
-
-
 ***
 
 <p class="emphase2"><strong>8 Rooms</strong></p>
 
-<p class="emphase">Each one is a dedicated website to be be populated all along my scientific journey</p>
+<p class="emphase">Each is a dedicated website that I populate incrementally during my scientific journey</p>
 
 <br>   
 
@@ -378,9 +404,19 @@ Description
 
 :::{grid-item}
 
-![flag alt >>](_static/Svg_icons/book-svgrepo-com.svg) <br> <span class="hovertext" data-hover="This content is to be read like a book (not necessarily pages by pages in order)">Online Free Book</span>
+![flag alt >>](_static/Svg_icons/book-svgrepo-com.svg) <br> <span class="hovertext" data-hover="This content is to be read like a book (not necessarily pages by pages in order)">Online Book</span>
 
 :::
+
+:::{grid-item}
+
+![flag alt >>](_static/Svg_icons/quest-svgrepo-com.svg) <br> <span class="hovertext" data-hover="You choose where to go, create your own story">Your quest</span>
+
+:::
+
+
+
+
 
 ::::
 
@@ -391,56 +427,15 @@ Description
 
 ::::{tab-set}
 
-:::{tab-item} Profile
+:::{tab-item} Bienvenue
 
-I think it is important when reading about science to know who is talking to you.
-:::
-
-:::{tab-item} Projects
-
-Explanations
+Bah oui bienvenue chez moi :)
 
 :::
 
-:::{tab-item} Research notes
+:::{tab-item} Désolé
 
-Description
-
-
-:::
-
-:::{tab-item} Publications
-
-Description
-
-:::
-
-
-:::{tab-item} Teaching
-
-Description
-
-
-:::
-
-:::{tab-item} Blog
-
-Description
-
-
-:::
-
-:::{tab-item} Tools
-
-Description
-
-
-:::
-
-:::{tab-item} Forum
-
-Description
-
+Oui la majeur partie du (des) sites est en anglais ...
 
 :::
 
@@ -454,56 +449,9 @@ Description
 
 ::::{tab-set}
 
-:::{tab-item} Profile
+:::{tab-item} Welcome
 
 I think it is important when reading about science to know who is talking to you.
-:::
-
-:::{tab-item} Projects
-
-Explanations
-
-:::
-
-:::{tab-item} Research notes
-
-Description
-
-
-:::
-
-:::{tab-item} Publications
-
-Description
-
-:::
-
-
-:::{tab-item} Teaching
-
-Description
-
-
-:::
-
-:::{tab-item} Blog
-
-Description
-
-
-:::
-
-:::{tab-item} Tools
-
-Description
-
-
-:::
-
-:::{tab-item} Forum
-
-Description
-
 
 :::
 
@@ -517,56 +465,9 @@ Description
 
 ::::{tab-set}
 
-:::{tab-item} Profile
+:::{tab-item} Innovation
 
-I think it is important when reading about science to know who is talking to you.
-:::
-
-:::{tab-item} Projects
-
-Explanations
-
-:::
-
-:::{tab-item} Research notes
-
-Description
-
-
-:::
-
-:::{tab-item} Publications
-
-Description
-
-:::
-
-
-:::{tab-item} Teaching
-
-Description
-
-
-:::
-
-:::{tab-item} Blog
-
-Description
-
-
-:::
-
-:::{tab-item} Tools
-
-Description
-
-
-:::
-
-:::{tab-item} Forum
-
-Description
-
+Are you ready to embrace innovation
 
 :::
 
@@ -588,11 +489,7 @@ Description
 
 
 
-# Comments
-
-
-
-:::::::{div} full-width
+<h1> Comments </h1>
 
 ::::::{grid} 3
 
@@ -654,16 +551,12 @@ or
 
 :::::
 ::::::
-:::::::
-
 
 ***
 
-::::{div} full-width
 
 - ![GitHub last commit](https://img.shields.io/github/last-commit/Deugz/nb-master?color=green&style=plastic) - ![GitHub repo size](https://img.shields.io/github/repo-size/Deugz/nb-master?color=yellow&style=plastic) - ![GitHub contributors](https://img.shields.io/github/contributors/Deugz/nb-master?color=red&style=plastic) - ![visitors](https://page-views.glitch.me/badge?page_id=https://deugz.github.io/nb-master/_build/html/intro.html) - ![watchers](https://img.shields.io/github/watchers/Deugz/nb-master?style=social) - ![stars](https://img.shields.io/github/stars/Deugz/nb-master?style=social)
       
-::::
 
 
 ***

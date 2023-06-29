@@ -520,4 +520,6 @@ img {
   opacity: 1;
 }
 
-
+#canvas-fading-face {
+	max-width: 100%;
+}

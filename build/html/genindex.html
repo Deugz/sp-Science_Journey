@@ -29,6 +29,8 @@
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
     <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
     <link rel="stylesheet" type="text/css" href="_static/css/custom_style.css" />
     <link rel="stylesheet" type="text/css" href="_static/css/Cube.css" />
@@ -48,13 +50,26 @@
     <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/sphinx_highlight.js"></script>
-    <script src="_static/design-tabs.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'genindex';</script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
     <script src="_static/assets/script/kittons.js"></script>
     <script src="_static/assets/script/script_flipping_card.js"></script>
     <script src="_static/assets/script/script_wheel.js"></script>
     <script src="_static/assets/script/scriptvideo.js"></script>
     <script src="_static/assets/script/slideshow.js"></script>
+    <script src="_static/design-tabs.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'genindex';</script>
     <link rel="shortcut icon" href="_static/logo_SFTP.png"/>
     <link rel="index" title="Index" href="#" />
     <link rel="search" title="Search" href="search.html" />
@@ -92,8 +107,8 @@
          class="form-control"
          name="q"
          id="search-input"
-         placeholder="Search the docs ..."
-         aria-label="Search the docs ..."
+         placeholder="Search..."
+         aria-label="Search..."
          autocomplete="off"
          autocorrect="off"
          autocapitalize="off"
@@ -176,7 +191,7 @@
                 
 
                 <li class="nav-item">
-                  <a class="nav-link nav-external" href="https://deugz.github.io/nb-thesis/_build/html/intro.html">
+                  <a class="nav-link nav-external" href="https://deugz.github.io/nb-publi/_build/html/intro.html">
                     &nbsp 💫 Publications
                   </a>
                 </li>
@@ -327,7 +342,7 @@ document.write(`
                 
 
                 <li class="nav-item">
-                  <a class="nav-link nav-external" href="https://deugz.github.io/nb-thesis/_build/html/intro.html">
+                  <a class="nav-link nav-external" href="https://deugz.github.io/nb-publi/_build/html/intro.html">
                     &nbsp 💫 Publications
                   </a>
                 </li>

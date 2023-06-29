@@ -31,7 +31,12 @@ comments_config = {
 extensions = [
   
   "myst_parser",
-  "sphinx_design",    
+  "sphinx_design",
+  "sphinx_comments",
+  "sphinx_new_tab_link",
+  "sphinx_book_theme",
+  "sphinx_togglebutton",
+  "sphinx_thebe",
 ]
 
 myst_enable_extensions = ["colon_fence", "linkify", "substitution"]
@@ -70,7 +75,7 @@ html_theme_options = {
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-thesis/_build/html/intro.html",
+            "url": "https://deugz.github.io/nb-publi/_build/html/intro.html",
             "name": "&nbsp 💫 Publications",
             "attributes": {"target": "_blank"},
         },
