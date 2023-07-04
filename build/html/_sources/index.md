@@ -180,7 +180,14 @@ Academia is a very peculiar social circle that lies at the margin of society. It
 <br><br>
 <center><em>And if you had the chance to start from a blank page, what would you do ?</em></center>
 <br><br>
-This is what this is all about, a dream come true, a blank page on top of which I can design and draw my own idea of how science should be shared. Free, open source, interactive, fun ... Those are the values I want to give to my work and this is what I will do, one way or the other. I hope you will enjoy!
+This is what this is all about, a dream come true, a blank page on top of which I can design and draw my own ideas of how science should be shared:
+<br><br>- Free 
+<br>- Open source 
+<br>- Accessible
+<br>- Interactive 
+<br>- Fun 
+<br><br>Those are the values I want to give to my work, and hence what I will do, one way or the other. I hope you will enjoy!
+<br>
 <br>
 <br>
 <strong>Vincent Deguin</strong>, Scientist (in the making), publisher, editor
@@ -228,7 +235,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-master/_build/html/"
+:link: content/Sections/Profile/Profile
 :columns: 3
 **Profile**
 ^^^
