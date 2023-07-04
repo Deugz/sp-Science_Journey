@@ -176,36 +176,41 @@ Unless clearly stated, the content of this website has not been peer-reviewed. H
 
 ```{epigraph}
 
-Academia is a very peculiar social circle that lies at the margin of society. It has his own code and practices far from the concerns of the average citizen. However it is not exampt from the appetite of capitalism who gangren the scientific publication system with extremely profitable market strategy (link blog). Academia is (surprisingly ?) extremely conservative and appears impossible to change, and yet this is an adventure I would like to embrace. To do so, I have empowered myself with a set of **open source** tools to create my own publication plateform, within which you are currently traveling. Very often when debating about the problem of this world with my friends, I used to ask:
+Academia is a peculiar world that lies at the margin of society. It has his own code and practices far from the concerns of the average citizen. However it is not exampt from the appetite of capitalism who gangren the scientific publication system with extremely profitable market strategy (link blog). Academia is (surprisingly ?) extremely conservative and appears impossible to change, and yet this is an adventure I would like to embrace. To do so, I have empowered myself with a set of **open source** tools to create my own publication plateform, within which you are currently traveling. Very often when debating with my friends, I used to ask:
 <br><br>
 <center><em>And if you had the chance to start from a blank page, what would you do ?</em></center>
 <br><br>
-This is what this is all about, a dream come true, a blank page on top of which I can design and draw my own ideas of how science should be shared:
-<br><br>- Free 
-<br>- Open source 
-<br>- Accessible
-<br>- Interactive 
-<br>- Fun 
-<br><br>Those are the values I want to give to my work, and hence what I will do, one way or the other. I hope you will enjoy!
-<br>
-<br>
-<br>
-<strong>Vincent Deguin</strong>, Scientist (in the making), publisher, editor
+Well this is it, a dream come true, a blank page on top of which I can design and draw my own ideas of how science should be published and shared: Free, Open source, Accessible, Interactive, Fun... Those are the values I want to give to my work, and hence what I will do, one way or the other. I hope you will enjoy!
 
 ```
+
+:::{grid-item-card}
+:link: content/index
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_z6u0cpru.json"  background="transparent"  speed="0.6"  style="width: 200px; height: 200px; float: right;"  loop  autoplay></lottie-player>
+
+<p class="emphase"><strong>Come in !!</strong> <br><br> (click)</p>
+
+
+:::
 
 
 ::::
 
+
 ::::{grid-item}
 :columns: 5
+:link: content/index
+
+<br>
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <lottie-player src="https://assets8.lottiefiles.com/private_files/lf30_p5tali1o.json"  background="transparent"  speed="0.25"  style="width: 100%; height: auto;"  loop  autoplay></lottie-player>
 
-
-
-<p class="emphase"><strong>Come in !!</strong></p>
+<br>
+<br>
+<br>
 
 
 :::{image} _static/Images/OU_Pic_bubble.png
@@ -218,7 +223,14 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::::
 
+<br>
 
+<p class="emphase">By <strong>Vincent Deguin</strong> </p>
+    
+<center><em>Scientist</em> (in the making), Web-developper, Publisher, Artist, Artisan of a better world ... </center>
+
+<br>
+<br>
 
 ***
 
@@ -247,7 +259,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-phd/_build/html/"
+:link: content/Sections/Projects/Projects
 :columns: 3
 **Projects**
 ^^^
@@ -259,7 +271,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-museum/_build/html/"
+:link: content/Sections/Research/Research
 :columns: 3
 **Research notes**
 ^^^
@@ -271,7 +283,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-thesis/_build/html/"
+:link: content/Sections/Publications/Publications
 :columns: 3
 **Publications**
 ^^^
@@ -288,7 +300,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-odapa/_build/html/"
+:link: content/Sections/Teaching/Teaching
 :columns: 3
 **Teaching**
 ^^^
@@ -300,7 +312,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-odapa/_build/html/"
+:link: content/Sections/Blog/Blog
 :columns: 3
 **Blog**
 ^^^
@@ -312,7 +324,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-odapa/_build/html/"
+:link: content/Sections/Tools/Tools
 :columns: 3
 **Tools**
 ^^^
@@ -324,7 +336,7 @@ This is what this is all about, a dream come true, a blank page on top of which 
 
 :::{grid-item-card}
 :class-header: bg-light
-:link: "https://deugz.github.io/nb-teaching/_build/html/"
+:link: content/Sections/Forum/Forum
 :columns: 3
 **Forum**
 ^^^

@@ -9,11 +9,41 @@ authors:
 
 # Profile
 
-## Professionaly
+::::{grid} 2
 
-### <strong> &#x2023; <u>  Missions </u></strong> 
+:::{grid-item}
+:columns: 8
 
-You may have understood it by now but I don't thrive having to fit in a box. This is why I created my own web plateform, to host and make flourish my unique personality and peculiar set of skills. Professionaly I define myself as a: 
+```{epigraph}
+
+This section is aimed at giving a quick introduction of myself. Not a trivial task if one wants to give a general overview of himself while avoiding the slippery slope of the egotrip. I have created a dedicated website, an online temple for myself, that you can visit by clicking on the right card. Here, I will mostly speak about my **Ikigai** (my purpose in life). 
+
+```
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+:link: "https://deugz.github.io/nb-profile/_build/html/intro.html"
+:columns: 4
+**Profile**
+^^^
+
+:::
+
+::::
+
+
+## Ikigai
+
+You may have understood it by now but I don't thrive having to fit in a box and this is why I created my own web plateform, to host and make flourish my unique personality and peculiar set of skills. However, I acknowledge the importance to have a framework to organise and build your life and I have choosen the Ikigai method, which can be described as follow:
+
+```{image} ../../../_static/SVG_files/Ikigai/Diagramo_de_Ikigajo_-en.svg
+
+```
+
+
+### <strong> &#x2023; <u>  Profession </u></strong> 
 
 <br>
 
@@ -40,17 +70,54 @@ Links
 
 ::::
 
-```{note}
-
-Insert together image type 
+```{image} ../../../_static/Images/together-arrow.png
 
 ```
 
 
-<p class="emphase"> Content creator</p>
+<p class="emphase"> <strong>Content creator</strong></p>
 
-- Problem in the way bothe Research and teaching materials are shared. Hopefully, I have a few passions that would fit well with the idea of revolutionazing the topic of publication
 
+```{admonition} What type of content does researcher / teacher produced ?
+:class: tip, dropdown
+
+- Problem in the way both Research and teaching materials are published, shared and distilled.
+
+```
+
+```{admonition} How, where is it shared ?
+:class: note, dropdown
+
+- Problem in the way both Research and teaching materials are published, shared and distilled.
+
+```
+
+```{admonition} Who does this content belongs to ?
+:class: warning, dropdown
+
+Definitely not the researcher, nor the teacher
+
+```
+
+```{admonition} Today, what is a content creator ?
+:class: important, dropdown
+
+Blabla
+
+```
+
+```{admonition} How can we bridge the gap ?
+:class: tip, dropdown
+
+Blabla
+
+```
+
+
+<br>
+<br>
+
+<p class="emphase"> Academia needs a <strong>Revolution</strong></p>
 
 
 <br>
@@ -58,16 +125,81 @@ Insert together image type
 ### <strong> &#x2023; <u>  Passions </u></strong> 
 
 
-```{note}
+::::{grid} 3
 
-Make it grid
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Web Development**
+^^^
 
-```
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_ctaacxzb.json"  background="transparent"  speed="1"  style="width: 100%; height: auto;"  loop  autoplay></lottie-player>
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Knowledge transfer**
+^^^
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_x3iibsyx.json"  background="transparent"  speed="1"  style="width: 100%; height: auto;"  loop  autoplay></lottie-player>
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Open Source**
+^^^
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_uzvwjpkq.json"  background="transparent"  speed="1"  style="width: 100%; height: auto;"  loop  autoplay></lottie-player>
 
 
-<p class="emphase"> <strong>Researcher</strong>, <strong>Web Developper</strong>, <strong>Journalist</strong>, <strong> Publisher </strong>,<strong> Entrepreuner </strong> ,<strong> Artist </strong></p>
+:::
+
+::::
+
+::::{grid} 3
+
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Arts**
+^^^
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Scientific Publication**
+^^^
+
+:::
+
+:::{grid-item-card}
+:class-header: bg-light
+:columns: 4
+**Collaborations**
+^^^
+
+:::
+
+::::
 
 
+
+### <strong> &#x2023; <u>  Missions </u></strong> 
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_rbexkvmr.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+
+
+### <strong> &#x2023; <u>  Vocations </u></strong> 
 
 
 ## Opinions
