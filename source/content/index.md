@@ -5,9 +5,9 @@
 :caption: Introduction
 :hidden:
 
-intro
-objectives
-map
+Info/intro
+Info/objectives
+Info/map
 ```
 
 ```{toctree}
@@ -15,14 +15,12 @@ map
 :caption: Sections
 :hidden:
 
-Sections/Profile/Profile
-Sections/Projects/Projects
-Sections/Research/Research
+Sections/Background/Background
+Sections/Methods/Methods
+Sections/Data-Software/Data-Software
+Sections/Analysis/Analysis
 Sections/Publications/Publications
-Sections/Teaching/Teaching
-Sections/Blog/Blog
-Sections/Tools/Tools
-Sections/Forum/Forum
+
 
 ```
 
@@ -31,7 +29,9 @@ Sections/Forum/Forum
 :caption: Appendix
 :hidden:
 
-to-check
+Perso/to-check
+to-include
+Perso/journal-de-bord
 
 ```
 
@@ -119,11 +119,4 @@ Description
 
 
 
-## Website Building Method
-
-They are the product of an innovative note taking method resulting in a free and creative way to share <strong>science</strong> while giving it an interactive and collaborative dimension. 
-
-
-
-### <strong> &#x2023; <u>  Jupyter Book </u></strong>
 

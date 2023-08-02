@@ -29,6 +29,10 @@ This section is aimed at giving a quick introduction of myself. Not a trivial ta
 **Profile**
 ^^^
 
+- CV
+- Scientific Interests
+- and more ...
+
 :::
 
 ::::
@@ -41,6 +45,7 @@ You may have understood it by now but I don't thrive having to fit in a box and 
 ```{image} ../../../_static/SVG_files/Ikigai/Diagramo_de_Ikigajo_-en.svg
 
 ```
+
 
 
 ### <strong> &#x2023; <u>  Profession </u></strong> 
@@ -81,7 +86,7 @@ Links
 ```{admonition} What type of content does researcher / teacher produced ?
 :class: tip, dropdown
 
-- Problem in the way both Research and teaching materials are published, shared and distilled.
+Researchers produce a variety of content, scientific articles, power point presentations, talks, reports, grants applications, outreach materials ... Teachers also have to write their own materials, lessons, assesments ... All of those have to obey to certain templates and a specific format which make them hard to digest by the members of the public. 
 
 ```
 

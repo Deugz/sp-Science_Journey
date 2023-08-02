@@ -1,1 +1,0 @@
-# Science by & for People

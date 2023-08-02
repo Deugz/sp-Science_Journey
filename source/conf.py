@@ -60,54 +60,71 @@ html_static_path = ['_static']
 html_theme_options = {
     "external_links": [
         {
-            "url": "https://deugz.github.io/nb-profile/_build/html/intro.html",
-            "name": " &nbsp 👽 Profile",
+            "url": "https://deugz.github.io/jb-background/_build/html/intro.html",
+            "name": " &nbsp 👽 Background",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-sbfp/_build/html/intro.html",
-            "name": " &nbsp ✊ Projects",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
-            "name": "&nbsp ✏️ Research notes",
+            "url": "https://deugz.github.io/jb-method/_build/html/intro.html",
+            "name": " &nbsp ✊ Methods",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/nb-publi/_build/html/intro.html",
-            "name": "&nbsp 💫 Publications",
+            "name": "&nbsp 💫 Data / Softwares",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/nb-teaching/_build/html/intro.html",
-            "name": "&nbsp 🎓 Teaching ",
+            "name": "&nbsp 🎓 Analysis ",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-blog/_build/html/intro.html",
-            "name": "&nbsp 💥 Blog &nbsp",
+            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
+            "name": "&nbsp ✏️ Publications",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": " https://deugz.github.io/nb-tools/_build/html/intro.html",
-            "name": "&nbsp 🔧 Tools &nbsp",
+            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
+            "name": "&nbsp Thesis",
             "attributes": {"target": "_blank"},
         },
-        {
-            "url": "",
-            "name": "&nbsp 🗨️ Forum ",
-            "attributes": {"target": "_blank"},
-        },
+
     ],
-    "header_links_before_dropdown": 10,    
+    "header_links_before_dropdown": 6,    
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/pydata/pydata-sphinx-theme",
+            "url": "https://github.com/Deugz/Encyclopedia-Home",
             "icon": "fa-brands fa-github",
         },
-    ],
+        {
+            "name": "Home",
+            "url": "https://deugz.github.io/Encyclopedia-Home/build/html/index.html",
+            "icon": "fa-solid fa-house",
+        },
+        {
+            "name": "Profile",
+            "url": "https://deugz.github.io/nb-profile/_build/html/intro.html",
+            "icon": "fa-solid fa-user",
+        },
+        {
+            "name": "Blog",
+            "url": "https://deugz.github.io/ab-blog/_website/index.html",
+            "icon": "fa-solid fa-blog",
+        },
+        {
+            "name": "Tools",
+            "url": "https://deugz.github.io/nb-tools/_build/html/intro.html",
+            "icon": "fa-solid fa-screwdriver-wrench",
+        },
+        {
+            "name": "Forum",
+            "url": "https://deugz.github.io",
+            "icon": "fa-solid fa-comments",
+        },
+    ],   
+
     
 
     "logo": {

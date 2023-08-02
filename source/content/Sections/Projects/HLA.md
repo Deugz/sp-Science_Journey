@@ -1,1 +1,0 @@
-# Hiphop Living Arxiv

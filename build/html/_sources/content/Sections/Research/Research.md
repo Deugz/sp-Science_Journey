@@ -3,143 +3,21 @@
 
 ```{note}
 
-Rather than a big monograph encompassing the full work, I would like to treat my work as a collection of **granular material**
+This is the core aspect of this new methodology. It allow me to deconstruct my work into smaller chunk that are easier for the public to digest and for other scientists to reuse.
 
-- **Background**: Some pages related to big scientific problematics (topics)
-    - Planet Formation
-    - Amorphous ices
-    - Interstellar Dusts
-    - Astrochemistry
-    
-- **Experimental Setups**
-    - PAC
-    - HGW Experiments
-    
-- **Investigation techniques**
-    - IR Spectroscopy
-    - Neutron Scattering
-    
-- **Experimental Data**
-    - ASW
-    - ASW + C2H6
-    
-- **Softwares**
-    - ASW w/ Python
+It is a way toexplore new publishing framework embeding all the web technologies.
 
-- **Scientific Results**
-    - ASW Crystalisation
-    - ASW + Ethane
+Interactivities ...
 
 ```
 
-Implement the wheel of Scientific method
+
 
 
 ## **Research**
 
 <br>
 <br>
-
-:::::{div} full-width
-
-<p class="emphase2"><strong>My Scientific Projects</strong></p>
-
-<br>
-<br>
-
-
-::::{card-carousel} 2
-
-:::{card} 
-:class-header: bg-light
-**Stairway to Heaven**
-^^^
-
-*Experimenting with the earliest stages of planet formation* (Part 2)
-
-
-- Job Type: PhD
-- Lead supervisor: Anita Dawes
-- Discipline: Astrochemistry
-- Duration: 4.5 years
-- Status: <img class ="small" src="_images/Under_construction.svg" > &#x2192; ![GitHub last commit](https://img.shields.io/github/last-commit/Deugz/nb-phd?color=green&style=plastic)
-
-+++
-&#128064; &#x2192; [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://deugz.github.io/nb-phd/_build/html/)
-:::
-
-:::{card}
-:class-header: bg-light
-**Museum of non result**
-^^^
-
-*Experimenting with the earliest stages of planet formation* (Part 1)
-
-- Job Type: PhD
-- Lead supervisor: Helen Fraser
-- Discipline: Astrophysics / Engeneering / Material Sciences
-- Duration: 4.5 years
-- Status: <img class ="small" src="_images/Under_construction.svg" > &#x2192; ![GitHub last commit](https://img.shields.io/github/last-commit/Deugz/nb-museum?color=green&style=plastic)
-
-
-
-+++
-&#128064; &#x2192; [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://deugz.github.io/nb-museum/_build/html/)
-:::
-
-:::{card}
-:class-header: bg-light
-**First steps**
-^^^
-
-*Photochemistry of Fe:H<sub>2</sub>O adducts in argon matrixes: a combined experimental and theoretical study in the mid-ir and uv-visible regions*
-
-- Job Type: Internship
-- Lead supervisor: Jennifer Noble
-- Discipline: Astrochemistry
-- Duration: 2 month
-- Status: Finished (&#9989;)
-
-<br>
-<br>
-
-
-- [![DOI:10.1021/acs.jpca.7b09681](https://zenodo.org/badge/DOI/10.1021/acs.jpca.7b09681.svg)](https://doi.org/10.1021/acs.jpca.7b09681) - [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1021/acs.jpca.7b09681)]()
-
-
-+++
-
-
-**Scientific publication**  &#x2192; {cite}`Deguin2018`
-:::
-
-:::{card}
-:class-header: bg-light
-**Condor Project**
-^^^
-
-Sprinkle a lot of this {cite}`Hague2020` on top of that {cite}`Souza2017` and you get a pretty cool project:  
-
-*3D tissue modelling with the CONDOR (link) model* 
-
-
-- Job Type: Research Associate (Postdoc)
-- Discipline: Computer Sciences / Biologie
-- Duration: 2 month
-
-
-+++
-
-
-&#x26D4; - **commercial application**
-:::
-
-::::
-:::::
-
-<br>
-<br>
-
 
 :::::{div} full-width
 
