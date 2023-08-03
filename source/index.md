@@ -134,13 +134,13 @@ Unless clearly stated, the content of this website has not been peer-reviewed. H
 :columns: 9
 
 
+  
 <p><img src="_static\Svg_icons\newspaper-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; An online scientific publication and public engagement plateform </p><br> 
 <p><img src="_static\Svg_icons\keys-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Self-own, creative, independant, interactive, collaborative and lifelong </p><br> 
 <p><img src="_static\Svg_icons\handshake-deal-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Aimed at promoting collaboration between multi-disciplinary scientistist </p><br> 
 <p><img src="_static\Svg_icons\bubble-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; By providing the space and tools to create and sustain a constructive dialogue </p><br> 
 <p><img src="_static\Svg_icons\planet-earth-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; With a broad spectrum of audiences </p><br> 
-<p><img src="_static\Svg_icons\hands-and-leaves-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Free and Open-Source, with no adds or cookies </p><br>  
-
+<p><img src="_static\Svg_icons\hands-and-leaves-svgrepo-com.svg" style="width: 30px;"> &nbsp; &nbsp; Free and Open-Source, with no adds or cookies </p><br> 
 
 
 
