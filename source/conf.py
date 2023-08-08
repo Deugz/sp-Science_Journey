@@ -57,7 +57,10 @@ html_logo = "_static/Logo/logo_SFTP.png"
 html_favicon = "_static/Logo/logo_SFTP.png"
 html_static_path = ['_static']
 
+
+
 html_theme_options = {
+    "analytics": {"google_analytics_id": "G-32XHJLYX7T"},
     "external_links": [
         {
             "url": "https://deugz.github.io/jb-background/_build/html/intro.html",

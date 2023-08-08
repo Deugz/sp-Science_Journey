@@ -751,80 +751,10 @@ Are you ready to embrace innovation
 ***
 
 
-
-
+<br>
 
 <h1> Comments </h1>
 
-::::::{grid} 3
-
-:::::{grid-item-card}
-:class-header: bg-light
-:columns: 5
-
-**Notes**
-^^^
-
-<br>
-
-<blockquote class="trello-card"> 
-  <a href="https://trello.com/c/WTiMvieA/3-intromd">Trello Card</a>
-</blockquote>
-<script src="https://p.trellocdn.com/embed.min.js"></script>
-
-
-:::::
-
-
-
-:::::{grid-item-card}
-:class-header: bg-light
-:columns: 4
-**Page**
-^^^
-
-<br>
-
-- Author:  Vincent Deguin;
-- Status:  &#9989; <span class="hovertext" data-hover="To be Reviewed">🔎</span>
-- Reviewed: <span class="hovertext" data-hover="Insert here who has done what">&#x274C;</span>
-- Updated: 28/05/2023
-
-
-
-   
-:::::
-
-:::::{grid-item-card}
-:class-header: bg-light
-:columns: 3
-<span style="float: right">![flag alt >](_static/Svg_icons/coins-money-svgrepo-com.svg)</span>**Help** 
-^^^
-
-<br>
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#317315', 'O4O6EZO78');kofiwidget2.draw();</script> 
-
-<br>
-<br>
-
-or
-
-<br>
-
-![flag alt >](_static/Svg_icons/patreon-svgrepo-com.svg) [Patreon](https://www.patreon.com/Science_for_the_People) 
-
-:::::
-::::::
-
-***
-
-
-- ![GitHub last commit](https://img.shields.io/github/last-commit/Deugz/nb-master?color=green&style=plastic) - ![GitHub repo size](https://img.shields.io/github/repo-size/Deugz/nb-master?color=yellow&style=plastic) - ![GitHub contributors](https://img.shields.io/github/contributors/Deugz/nb-master?color=red&style=plastic) - ![visitors](https://page-views.glitch.me/badge?page_id=https://deugz.github.io/nb-master/_build/html/intro.html) - ![watchers](https://img.shields.io/github/watchers/Deugz/nb-master?style=social) - ![stars](https://img.shields.io/github/stars/Deugz/nb-master?style=social)
-      
-
-
-***
 
 <script src="https://utteranc.es/client.js"
         repo="Deugz/sp-Science_Journey"
