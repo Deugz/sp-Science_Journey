@@ -2,23 +2,35 @@
 
 ```{toctree}
 :maxdepth: 2
-:caption: Introduction
+:caption: 🌍 About
 :hidden:
 
-Info/intro
-Info/objectives
-Info/map
+About/Me/About-me
+About/You/About-you
+About/Us/About-us
 ```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Sections
+:caption: 💎 Project 
 :hidden:
 
+Project/Manifesto/Manifesto
+Project/Objectives/objectives
+Project/Roadmap/Roadmap
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: ➡️ Sections
+:hidden:
+Sections/map
 Sections/Background/Background
 Sections/Methods/Methods
 Sections/Data-Software/Data-Software
 Sections/Analysis/Analysis
+Sections/Results/Results
 Sections/Publications/Publications
 
 
@@ -26,7 +38,19 @@ Sections/Publications/Publications
 
 ```{toctree}
 :maxdepth: 2
-:caption: Appendix
+:caption: 👥 Community
+:hidden:
+
+Community/Experimental/Experimental
+Sections/Observers/Observers
+Sections/Modelers/Modelers-------
+
+
+```
+
+```{toctree}
+:maxdepth: 2
+:caption: 📦 Appendix
 :hidden:
 
 Perso/to-check
@@ -35,88 +59,45 @@ Perso/journal-de-bord
 
 ```
 
-## Introduction
+## Journal
 
-::::{grid} 2
+### Stories
+
+
+
+
+
+
+
+
+# Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="Deugz/sp-Science_Journey"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+::::{grid} 3
 
 :::{grid-item}
-:columns: 6
+:columns: 4
 
-```{epigraph} 
-
-You have just set foot on my academic websites portefolio, a deep collection of web pages that may look daunting at first glance. Don't worry, everything is well organised and for the moment you are *on the top of the iceberg*. This website is dedicated to explain and link to the different sections (websites) you can visit and what they contain.
-
-```
 :::
 
 :::{grid-item}
-:columns: 6
+:columns: 4
 
-```{image} Docs/Iceberg.png
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#317315', 'O4O6EZO78');kofiwidget2.draw();</script> 
 
-```
+:::
+
+:::{grid-item}
+:columns: 4
 
 :::
 
 ::::
-
-### <strong> &#x2023; <u> The page layout </u></strong>  
-
-```{image} Docs/Page_layout_index.png
-
-```
-
-<br>
-<br>
-
-::::{tab-set} 
-
-:::{tab-item} Top nav
-
-Links to the different websites
-
-:::
-
-:::{tab-item} Left nav
-
-Explanations
-
-:::
-
-:::{tab-item} Right nav
-
-Description
-
-
-:::
-
-:::{tab-item} Site button
-
-Description
-
-:::
-
-
-:::{tab-item} Hypothesis 
-
-Description
-
-
-:::
-
-:::{tab-item} Page content
-
-Description
-
-
-:::
-
-::::
-
-
-### <strong> &#x2023; <u>  Audiences </u></strong>
-
-
-
-
 

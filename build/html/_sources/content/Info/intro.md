@@ -1,5 +1,13 @@
 # Preambule
 
+```{toctree}
+:maxdepth: 2
+:hidden:
+
+Interests
+
+```
+
 
 <p class="emphase2"><strong>Astronomy</strong></p>
 
