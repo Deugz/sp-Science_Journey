@@ -61,10 +61,31 @@ Perso/journal-de-bord
 
 ## Journal
 
+<p class="emphase">Deconstructed journal</p>
+
+- Self own 
+- Lifelong implementation
+
 ### Stories
 
 
 
+
+
+
+
+
+
+
+## I support
+
+### Scientist Rebellion
+
+```{note}
+
+Ajouter ici l'image avec description du projet
+
+```
 
 
 
